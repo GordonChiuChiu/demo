@@ -8,5 +8,5 @@ Watch tutorial
 
 ## Local Development
 
-1. Open index.html in your browser
-2. this is for testing
+1. main
+2. main
